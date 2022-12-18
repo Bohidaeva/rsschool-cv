@@ -2,8 +2,7 @@
 ===
 **My Contact Info**
 ===
--    Address: Krupskaya st. Lida, Belarus   
--    Phone: +375 33 659-81-62  
+-    Address: Lida, Belarus   
 -    E-mail: manita13303@gmail.com  
 -    GitHub: bohidaeva  
 -    Discord: bohidaeva  
